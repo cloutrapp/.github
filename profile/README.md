@@ -1,4 +1,4 @@
-![Influensic Banner](./Github_Banner.png)
+![Influensic Banner](../Github_Banner.png)
 
 # Influensic
 
@@ -22,7 +22,7 @@ This is the main repository of Influensic on GitHub. Here, you can explore the r
 
 ## Explore Influensic Assets
 
-For those looking for digital branding assets for Influensic—such as logos, banners, and other visual elements—please visit our [Influensic Assets Repository](https://github.com/influensic/assets). 
+For those looking for digital branding assets for Influensic—such as logos, banners, and other visual elements—please visit our [Influensic Assets Repository](https://github.com/influensic/assets).
 
 This repository contains all the official assets that can be used to promote Influensic or integrate the platform into your website or app.
 
@@ -32,4 +32,4 @@ The code and assets in this organization are open-source and free to use under t
 
 ---
 
-*For more details about the platform, how to get started, or to explore opportunities, visit our website: [https://influensic.com](https://influensic.com)*
+_For more details about the platform, how to get started, or to explore opportunities, visit our website: [https://influensic.com](https://influensic.com)_
