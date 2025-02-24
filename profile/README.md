@@ -28,7 +28,7 @@ This repository contains all the official assets that can be used to promote Inf
 
 ## License
 
-The code and assets in this organization are open-source and free to use under the MIT License.
+The assets in this organization are open-source and free to use under the MIT License.
 
 ---
 
