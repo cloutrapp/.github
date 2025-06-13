@@ -1,6 +1,6 @@
 ![Cloutr Banner](../Github_Banner.png)
 
-# Cloutr
+# Cloutr.
 
 Welcome to the official GitHub organization of Cloutr! Our platform is designed to connect brands and creators globally, allowing them drive engagement, optimize campaigns, track performance and maximize results.
 
